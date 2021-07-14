@@ -1,0 +1,5 @@
+Note: To get details of a widget, press ctrl + B;
+Note: Stack widget helps to put one widget on another's surface;
+For widget or text widget that may be bleeding or too long, wrap with a flexible.
+Remember:  width: MediaQuery.of(context).size.width  helps to get the entire width possible and its based on screens,
+NOTE : SizedBox helps you regulate the width and height between children elements
